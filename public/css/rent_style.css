@@ -1,0 +1,53 @@
+*{
+	padding: 0;
+	margin: 0;
+	border:0; 
+}
+.header{
+	background-color: lightgray;
+	height:100px;
+	width: 100%;
+}
+.header h1{
+	padding-top: 20px;
+	padding-left: 120px;
+}
+.container h3{
+	font-size: 25px;
+}
+.container label{
+	font-size: 20px;
+}
+.container input{
+	border: 0.5px solid rgb(180, 180, 180);
+	background-color: rgb(240, 240, 240);
+	padding: 5px 10px;
+	width: 90%;
+}
+.container select{
+	border: 0.5px solid rgb(180, 180, 180);
+	width: 60%;
+	height: 50px;
+	padding: 5px 10px;
+	background-color: rgb(240, 240, 240);
+}
+.price input{
+	border: 0.5px solid rgb(180, 180, 180);
+	background-color: rgb(240, 240, 240);
+	padding: 0 0;
+	width: auto;
+}
+.des textarea{
+	height: 300px;
+	width: 90%;
+	border: 0.5px solid rgb(180, 180, 180);
+	background-color: rgb(240, 240, 240);
+}
+.container button{
+	text-transform: uppercase;
+	background-color: rgb(128, 43, 107);
+	color: white;
+	padding: 5px 20px;
+	letter-spacing: 1px;
+	margin-left: 450px;
+}
